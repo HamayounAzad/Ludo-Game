@@ -13,12 +13,12 @@ let sound = true; // by default sound is on
 
 //      ALL Audio Variables
 
-let rollAudio = new Audio("../music/diceRollingSound.mp3");
-let openAudio = new Audio("../music/open-sound.wav");
-let jumpAudio = new Audio("../music/jump-sound.mp3");
-let cutAudio = new Audio("../music/cut-sound.wav");
-let passAudio = new Audio("../music/pass-sound.mp3");
-let winAudio = new Audio("../music/win-sound.mp3");
+let rollAudio = new Audio("music/diceRollingSound.mp3");
+let openAudio = new Audio("music/open-sound.wav");
+let jumpAudio = new Audio("music/jump-sound.mp3");
+let cutAudio = new Audio("music/cut-sound.wav");
+let passAudio = new Audio("music/pass-sound.mp3");
+let winAudio = new Audio("music/win-sound.mp3");
 
 // function playSound(){
 //   openAudio.play();
